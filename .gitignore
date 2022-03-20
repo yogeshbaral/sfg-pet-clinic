@@ -59,7 +59,7 @@ local.properties
 *.ids
 *.orig
 release.properties
-
+*.releaseBackup
 
 ######################
 # Visual Studio Code
